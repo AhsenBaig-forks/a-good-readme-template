@@ -76,7 +76,7 @@ Requirements for the software and other tools to build, test and push
 - [Example 1](https://www.example.com)
 - [Example 2](https://www.example.com)
 
-### Installing
+### Installation
 
 A step by step series of examples that tell you how to get a development
 environment running
