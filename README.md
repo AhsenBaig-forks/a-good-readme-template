@@ -39,10 +39,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#about-the-project">About The Project</a>     
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -60,8 +57,7 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
-# Project Title
+# About The Project
 
 One Paragraph of the project description
 
